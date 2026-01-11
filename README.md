@@ -110,7 +110,9 @@ This and all other lab assignments will simulate the engineering practices in a 
     4. In the `GitLens` panel, click `Commits`.
     5. Make sure you can see commits to this repo.
 
-17. Skim this `README.md` file once so you know what’s coming.
+17. Set up [Kilo Code](https://kilo.ai/install) with Qwen3 Coder (watch [tutorial](https://www.youtube.com/watch?v=G0uIVEt3aj4)) or another [free model](https://openrouter.ai/collections/free-models).
+
+18. Skim this `README.md` file once so you know what’s coming.
 
 ---
 
