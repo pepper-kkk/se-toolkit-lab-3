@@ -1,5 +1,6 @@
 # VM
 
+- [Your VM](#your-vm)
 - [Create a VM](#create-a-vm)
   - [Create a subscription](#create-a-subscription)
   - [Create a VM using the subscription](#create-a-vm-using-the-subscription)
@@ -8,9 +9,11 @@
 - [Connect to the VM](#connect-to-the-vm)
 - [Troubleshooting](#troubleshooting)
 
-## Create a VM
+## Your VM
 
 The university provides you a virtual machine (VM) for labs and home experiments.
+
+## Create a VM
 
 Complete these steps to create a VM:
 
