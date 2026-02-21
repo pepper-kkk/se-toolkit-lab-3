@@ -29,5 +29,6 @@
   // Markdown doc in the editor and preview to scroll synchronously.
 
   "markdown.preview.scrollEditorWithPreview": true,
-  "markdown.preview.scrollPreviewWithEditor": true
+  "markdown.preview.scrollPreviewWithEditor": true,
+  "python-envs.pythonProjects": []
 }
